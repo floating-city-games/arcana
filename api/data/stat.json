@@ -1,0 +1,39 @@
+{
+    "stat": {
+        "strength":{
+            "syn":["strength","strong","power","muscle","brawn","force",
+            "tough","forceful","robust","courage","courageous",
+            "hero","heroine","lead","leader","gym"]
+        },
+        "skill":{
+            "syn":["agile","nimble","nimbly","ability","skill",
+            "speed","swift","well","sport","clever","gifted",
+            "able","alert","circus","acrobat","player","play","gym"]
+        },
+        "magic":{
+            "syn":["intelligence","mind","reason","understand","understanding",
+            "spell","sorcery","sage","witch","occult","druid","magic","supernatural",
+            "charm","book","read","reading","hypnosis","smart"]
+        },
+        "religion":{
+            "syn":["religion","faith","divine","divinity","preach",
+            "speak","speaker","grave","graveyard","soul","spirit","god","lord",
+            "worship","church","cathedral"]
+        },
+        "charisma":{
+            "syn":["charisma","charm","charming","sing","song","singing","singer","play",
+            "perform","performance","write","writer","written","read","persuade","persuasion",
+            "persuasive","trust","trusted","appeal","appealing"]
+        },
+        "vitality":{
+            "syn":["vital","vitality","health","healthy","well","fat","tough",
+            "steady","slow","stout","thick","hardy", "built","muscle","physical",
+            "physique","sturdy", "tank"]
+        },
+        "speed":{
+            "syn":["run","jump","fast","faster","quick","quickly","speed",
+            "swift","rapid","brisk","nimble","sport","fly","flying",
+            "haste","hastily","hurry","hurried","light", "lightning","ready","observant","alert"]
+        }
+    }
+}
